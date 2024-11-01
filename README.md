@@ -1,4 +1,6 @@
 # FututrIntern_DS_03.House-Price-Prediction
+![image](https://github.com/user-attachments/assets/5f462531-575d-4b1a-bba3-69fa11d7821d)
+
 
 # House Price Prediction
 
