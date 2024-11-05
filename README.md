@@ -18,15 +18,15 @@ This project aims to predict housing prices using machine learning algorithms. T
       
       Modeling
       
-     Results
+      Results
      
-     Conclusion and Future Work
+      Conclusion and Future Work
      
-     Repository Structure
+      Repository Structure
      
-     How to Run the Code
+      How to Run the Code
      
-     Contact Information
+      Contact Information
 
 ## Project Overview
 
