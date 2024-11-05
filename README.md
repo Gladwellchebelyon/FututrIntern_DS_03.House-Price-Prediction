@@ -9,16 +9,24 @@ This project aims to predict housing prices using machine learning algorithms. T
 ## Table of Contents
 
       Project Overview
-      *Business Understanding* 
+      
+      Business Understanding
 
-*Data Understanding*
-Exploratory Data Analysis (EDA)
-Modeling
-Results
-Conclusion and Future Work
-Repository Structure
-How to Run the Code
-Contact Information
+      Data Understanding
+      
+      Exploratory Data Analysis (EDA)
+      
+      Modeling
+      
+     Results
+     
+     Conclusion and Future Work
+     
+     Repository Structure
+     
+     How to Run the Code
+     
+     Contact Information
 
 ## Project Overview
 
